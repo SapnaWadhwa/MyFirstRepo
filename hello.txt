@@ -1,3 +1,4 @@
 Hello,Git!
 "Learning Git is fun"
 "Slowly progressing"
+"This is new feature"
